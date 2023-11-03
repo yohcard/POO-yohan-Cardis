@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 ///Eleve : Yohan Cardis
 ///École: ETML
-///Date: 29/10/2023
+///Date: 03.11/2023
 
 namespace POO_YohCardisv2
 {
@@ -39,13 +39,13 @@ namespace POO_YohCardisv2
                 if (IsPlayerWinner) // Le joueur a gagné
                 {
                     Console.Clear();
-                    Console.SetCursorPosition(20, 10);
+                    Console.SetCursorPosition(15, 10);
                     return "Félicitations, vous avez gagné !"; 
                 }
                 else // Le joueur a perdu
                 {
                     Console.Clear();
-                    Console.SetCursorPosition(20, 10);
+                    Console.SetCursorPosition(15, 10);
                     return "Dommage, vous avez perdu."; 
                 }
             }

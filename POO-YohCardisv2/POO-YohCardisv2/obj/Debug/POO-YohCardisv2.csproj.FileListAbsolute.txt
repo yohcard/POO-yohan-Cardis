@@ -66,3 +66,26 @@ D:\2eme\aWERGWE\POO-YohCardisv2 (1)\POO-YohCardisv2\POO-YohCardisv2\obj\Debug\PO
 D:\2eme\aWERGWE\POO-YohCardisv2 (1)\POO-YohCardisv2\POO-YohCardisv2\obj\Debug\POO-YohCardisv2.csproj.CopyComplete
 D:\2eme\aWERGWE\POO-YohCardisv2 (1)\POO-YohCardisv2\POO-YohCardisv2\obj\Debug\POO-YohCardisv2.exe
 D:\2eme\aWERGWE\POO-YohCardisv2 (1)\POO-YohCardisv2\POO-YohCardisv2\obj\Debug\POO-YohCardisv2.pdb
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\bin\Debug\POO-YohCardisv2.exe.config
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\bin\Debug\POO-YohCardisv2.exe
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\bin\Debug\POO-YohCardisv2.pdb
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\bin\Debug\MySqlConnector.dll
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\bin\Debug\System.Buffers.dll
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\bin\Debug\System.Memory.dll
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\bin\Debug\MySqlConnector.xml
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\bin\Debug\System.Buffers.xml
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\bin\Debug\System.Memory.xml
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\obj\Debug\POO-YohCardisv2.csproj.AssemblyReference.cache
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\obj\Debug\POO-YohCardisv2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\obj\Debug\POO-YohCardisv2.csproj.CoreCompileInputs.cache
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\obj\Debug\POO-YohCardisv2.csproj.CopyComplete
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\obj\Debug\POO-YohCardisv2.exe
+C:\Users\ps16gnt\Documents\GitHub\POO-yohan-Cardis\POO-YohCardisv2\POO-YohCardisv2\obj\Debug\POO-YohCardisv2.pdb

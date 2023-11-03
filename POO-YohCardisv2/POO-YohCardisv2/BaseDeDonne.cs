@@ -5,7 +5,7 @@ using MySqlConnector;
 using System.Threading.Tasks;
 ///Eleve : Yohan Cardis
 ///École: ETML
-///Date: 29/10/2023
+///Date: 03.11/2023
 
 namespace projet_space_invaders_v1._0
 {
@@ -35,7 +35,7 @@ namespace projet_space_invaders_v1._0
                     // Affiche les pseudonymes des joueurs
                     while (reader.Read())
                     {
-                        Console.SetCursorPosition(w, z);
+                        Console.SetCursorPosition(15, z);
                         Console.WriteLine(reader["jouPseudo"].ToString());
                         z++;
                     }
@@ -101,7 +101,7 @@ namespace projet_space_invaders_v1._0
                 insertCommand.Parameters.AddWithValue("@nomJoueur", nomJoueur);
                 insertCommand.Parameters.AddWithValue("@score", score);
                 insertCommand.ExecuteNonQuery();
-
+                Console.SetCursorPosition(15, 3);
                 Console.WriteLine("Score enregistré avec succès !");
             }
             catch (MySqlException ex)

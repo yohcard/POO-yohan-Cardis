@@ -7,7 +7,7 @@ using System.Threading;
 using System.Threading.Tasks;
 ///Eleve : Yohan Cardis
 ///École: ETML
-///Date: 29/10/2023
+///Date: 03.11/2023
 
 namespace POO_YohCardisv2
 {
@@ -33,6 +33,7 @@ namespace POO_YohCardisv2
             score = 0;
             gameOver = false;
             gameOutcome = new GameOutcome();
+           
         }
 
         // Méthode pour démarrer le jeu
@@ -40,6 +41,8 @@ namespace POO_YohCardisv2
         {
             var basededonne = new BaseDeDonne();
             var gameoutcome = new GameOutcome();
+            int y = 14;
+            int x = 15;
             nomJoueur = ProfilJoueur(ok); // Initialisation du nom du joueur
             Console.Clear();
             InitializeGame();
@@ -67,11 +70,11 @@ namespace POO_YohCardisv2
                     // Affiche un message de fin de partie
                     Console.WriteLine(gameOutcome.GetOutcomeMessage());
                     basededonne.EnregistrerScoreDePartie(nomJoueur, score);
-                    Console.SetCursorPosition(20, 11);
+                    Console.SetCursorPosition(x, y++);
                     Console.WriteLine($"Ton score: {score}");
-                    Console.SetCursorPosition(20, 12);
+                    Console.SetCursorPosition(x, y++);
                     Console.WriteLine($"Vie restante: {playerShip.Lives}");
-                    Console.SetCursorPosition(20, 14);
+                    Console.SetCursorPosition(x, y++);
                     Console.WriteLine("Appuyer R pour recommencer ou Q pour quitter.");
                     // Gère les options de recommencement ou de quitter ici
                     var key = Console.ReadKey(true).Key;
@@ -98,7 +101,7 @@ namespace POO_YohCardisv2
             score = 0;
             gameOver = false;
 
-            for (int i = 0; i < 10; i++) // 10 enemis ajouté à la list
+            for (int i = 0; i < 0; i++) // 10 enemis ajouté à la list
             {
                 Enemy enemy = new Enemy();
                 enemy.Initialize(random.Next(Console.WindowWidth), random.Next(5, 10));
