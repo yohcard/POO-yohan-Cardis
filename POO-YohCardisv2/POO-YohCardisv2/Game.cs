@@ -101,7 +101,7 @@ namespace POO_YohCardisv2
             score = 0;
             gameOver = false;
 
-            for (int i = 0; i < 0; i++) // 10 enemis ajouté à la list
+            for (int i = 0; i < 10; i++) // 10 enemis ajouté à la list
             {
                 Enemy enemy = new Enemy();
                 enemy.Initialize(random.Next(Console.WindowWidth), random.Next(5, 10));
